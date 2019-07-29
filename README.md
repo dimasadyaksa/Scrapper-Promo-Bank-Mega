@@ -10,7 +10,7 @@ This script download data from https://www.bankmega.com/promolainnya.php? and st
 ```bash
 $ git clone https://github.com/dimasadyaksa/Scrapper-Promo-Bank-Mega
 $ npm install 
-$ node main.js
+$ node solution.js
 ```
 
 ## Author
